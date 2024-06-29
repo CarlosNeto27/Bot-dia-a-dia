@@ -4,7 +4,7 @@ import time
 from time import sleep
 
 login = "CARLOS.NETO"
-senha = "Mtk2424"
+senha = "*******"
 
 py.click(x=979, y=1069) # abertura do whatsapp web
 py.click(x=844, y=1071) # abertura do Thunderbird 
